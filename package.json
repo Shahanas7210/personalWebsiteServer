@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "sweetalert2": "^11.4.8"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "personal-website",
+  "description": "Beautiful HTML,CSS and Bootstrap Portfolio",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahanas7210/https---github.com-Shahanas7210-personalWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahanas7210/https---github.com-Shahanas7210-personalWeb/issues"
+  },
+  "homepage": "https://github.com/Shahanas7210/https---github.com-Shahanas7210-personalWeb#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
